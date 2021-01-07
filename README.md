@@ -1,5 +1,5 @@
 ### Date created
-December 13th, 2020
+December 13th, 2020. The project was submitted twice, the first submission had some omissions. This had to updated and submitted again.
 
 ### Project Title
 Explore US Bikeshare Data
