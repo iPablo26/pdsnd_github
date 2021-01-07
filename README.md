@@ -2,7 +2,7 @@
 December 13th, 2020. The project was submitted twice, the first submission had some omissions. This had to updated and submitted again.
 
 ### Project Title
-Explore US Bikeshare Data
+Explore US Bikeshare Data or Descriptive Statistics of Bikeshare Data
 
 ### Description
 Exploring data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington. Code will be written to import the data and answer interesting questions about it by computing descriptive statistics. A script(bikeshare.py) will be written that takes in raw input to create an interactive experience in the terminal to present these statistics.
