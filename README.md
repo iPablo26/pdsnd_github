@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+December 13th, 2020. The project was submitted twice, the first submission had some omissions. This had to updated and submitted again.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data or Descriptive Statistics of Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Exploring data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington. Code will be written to import the data and answer interesting questions about it by computing descriptive statistics. A script(bikeshare.py) will be written that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/sauravraghuvanshi/Udacity-programming-for-Data-Science-With-Python-Nanodegree
 
