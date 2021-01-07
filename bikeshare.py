@@ -22,7 +22,7 @@ def get_filters():
 
 
     while True:
-      city = input("\nHere are the city options: Chicago, New York or Washington\n").title()
+      city = input("\nHere are the city options: Chicago, New York or Washington\n").title() # for uppercase and lowercase characters 
       if city not in ('Chicago', 'New York', 'Washington'):
         print("Sorry, Not a valid option, Please Try Again")
         continue
@@ -132,7 +132,7 @@ def station_stats(df):
 
     # TO DO: display most commonly used start station
 
-    Start_Station = df['Start Station'].value_counts().idxmax()
+    Start_Station = df['Start Station'].value_counts().idxmax() #Chaining a count method and a function
     print('Most Commonly used start station:', Start_Station)
 
 
